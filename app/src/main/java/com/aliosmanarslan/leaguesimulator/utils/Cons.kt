@@ -1,5 +1,5 @@
 package com.aliosmanarslan.leaguesimulator.utils
 
 object Cons {
-    var playedMatch: Int = 0
+    var playedMatch: Int = -1
 }
